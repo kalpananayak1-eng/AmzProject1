@@ -24,7 +24,9 @@ public class BaseTest extends ListenersLogic
 		}
 		if(browser.equalsIgnoreCase("firefox"))
 		{
-			driver = new FirefoxDriver();
+		    org.openqa.selenium.firefox.FirefoxOptions options = new org.openqa.selenium.firefox.FirefoxOptions();
+		    options.addArguments("-headless");
+		    driver = new org.openqa.selenium.firefox.FirefoxDriver(options);
 		}
 		if(browser.equalsIgnoreCase("edge"))
 		{
