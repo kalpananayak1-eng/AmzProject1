@@ -1,0 +1,542 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results retried="1" ignored="0" total="7" passed="6" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[browser and url launched successfully]]>
+    </line>
+    <line>
+      <![CDATA[Hoverover on Account and List is successful]]>
+    </line>
+    <line>
+      <![CDATA[click on signin is successful]]>
+    </line>
+    <line>
+      <![CDATA[Email_id is successfully entered]]>
+    </line>
+    <line>
+      <![CDATA[password is  successfully entered]]>
+    </line>
+    <line>
+      <![CDATA[login is successfully done]]>
+    </line>
+    <line>
+      <![CDATA[TestCase is pass]]>
+    </line>
+    <line>
+      <![CDATA[browser and url launched successfully]]>
+    </line>
+    <line>
+      <![CDATA[Hoverover on Account and List is successful]]>
+    </line>
+    <line>
+      <![CDATA[click on signin is successful]]>
+    </line>
+    <line>
+      <![CDATA[Email_id is successfully entered]]>
+    </line>
+    <line>
+      <![CDATA[password is  successfully entered]]>
+    </line>
+    <line>
+      <![CDATA[login is successfully done]]>
+    </line>
+    <line>
+      <![CDATA[Hoverover on Account and List is successful]]>
+    </line>
+    <line>
+      <![CDATA[click on signOut is  successful]]>
+    </line>
+    <line>
+      <![CDATA[TestCase is pass]]>
+    </line>
+    <line>
+      <![CDATA[browser and url launched successfully]]>
+    </line>
+    <line>
+      <![CDATA[Hoverover on Account and List is successful]]>
+    </line>
+    <line>
+      <![CDATA[click on signin is successful]]>
+    </line>
+    <line>
+      <![CDATA[Email_id is successfully entered]]>
+    </line>
+    <line>
+      <![CDATA[password is  successfully entered]]>
+    </line>
+    <line>
+      <![CDATA[login is successfully done]]>
+    </line>
+    <line>
+      <![CDATA[TestCase is pass]]>
+    </line>
+    <line>
+      <![CDATA[browser and url launched successfully]]>
+    </line>
+    <line>
+      <![CDATA[Hoverover on Account and List is successful]]>
+    </line>
+    <line>
+      <![CDATA[click on signin is successful]]>
+    </line>
+    <line>
+      <![CDATA[Email_id is successfully entered]]>
+    </line>
+    <line>
+      <![CDATA[password is  successfully entered]]>
+    </line>
+    <line>
+      <![CDATA[login is successfully done]]>
+    </line>
+    <line>
+      <![CDATA[browser and url launched successfully]]>
+    </line>
+    <line>
+      <![CDATA[Hoverover on Account and List is successful]]>
+    </line>
+    <line>
+      <![CDATA[click on signin is successful]]>
+    </line>
+    <line>
+      <![CDATA[Email_id is successfully entered]]>
+    </line>
+    <line>
+      <![CDATA[password is  successfully entered]]>
+    </line>
+    <line>
+      <![CDATA[login is successfully done]]>
+    </line>
+    <line>
+      <![CDATA[Hoverover on Account and List is successful]]>
+    </line>
+    <line>
+      <![CDATA[click on signOut is  successful]]>
+    </line>
+    <line>
+      <![CDATA[TestCase is pass]]>
+    </line>
+    <line>
+      <![CDATA[browser and url launched successfully]]>
+    </line>
+    <line>
+      <![CDATA[Hoverover on Account and List is successful]]>
+    </line>
+    <line>
+      <![CDATA[click on signin is successful]]>
+    </line>
+    <line>
+      <![CDATA[Email_id is successfully entered]]>
+    </line>
+    <line>
+      <![CDATA[password is  successfully entered]]>
+    </line>
+    <line>
+      <![CDATA[login is successfully done]]>
+    </line>
+    <line>
+      <![CDATA[TestCase is pass]]>
+    </line>
+    <line>
+      <![CDATA[browser and url launched successfully]]>
+    </line>
+    <line>
+      <![CDATA[Hoverover on Account and List is successful]]>
+    </line>
+    <line>
+      <![CDATA[click on signin is successful]]>
+    </line>
+    <line>
+      <![CDATA[Email_id is successfully entered]]>
+    </line>
+    <line>
+      <![CDATA[password is  successfully entered]]>
+    </line>
+    <line>
+      <![CDATA[login is successfully done]]>
+    </line>
+    <line>
+      <![CDATA[Hoverover on Account and List is successful]]>
+    </line>
+    <line>
+      <![CDATA[click on signOut is  successful]]>
+    </line>
+    <line>
+      <![CDATA[TestCase is pass]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2026-08-20T18:09:48 IST" name="Testing Smoke Scenerios" finished-at="2026-08-20T18:14:52 IST" duration-ms="303620">
+    <groups>
+    </groups>
+    <test started-at="2026-08-20T18:09:48 IST" name="Chrome Test" finished-at="2026-08-20T18:10:46 IST" duration-ms="57886">
+      <class name="package1.PharmacyApplication.TC2_LoginToAmazonAndLogout">
+        <test-method is-config="true" signature="launch(java.lang.String)[pri:0, instance:package1.PharmacyApplication.TC2_LoginToAmazonAndLogout@ba2f4ec]" started-at="2026-08-20T18:10:16 IST" name="launch" finished-at="2026-08-20T18:10:21 IST" duration-ms="4863" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method signature="withValidCredLogout()[pri:0, instance:package1.PharmacyApplication.TC2_LoginToAmazonAndLogout@ba2f4ec]" started-at="2026-08-20T18:10:21 IST" name="withValidCredLogout" finished-at="2026-08-20T18:10:44 IST" duration-ms="23240" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[browser and url launched successfully]]>
+            </line>
+            <line>
+              <![CDATA[Hoverover on Account and List is successful]]>
+            </line>
+            <line>
+              <![CDATA[click on signin is successful]]>
+            </line>
+            <line>
+              <![CDATA[Email_id is successfully entered]]>
+            </line>
+            <line>
+              <![CDATA[password is  successfully entered]]>
+            </line>
+            <line>
+              <![CDATA[login is successfully done]]>
+            </line>
+            <line>
+              <![CDATA[Hoverover on Account and List is successful]]>
+            </line>
+            <line>
+              <![CDATA[click on signOut is  successful]]>
+            </line>
+            <line>
+              <![CDATA[TestCase is pass]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- withValidCredLogout -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:package1.PharmacyApplication.TC2_LoginToAmazonAndLogout@ba2f4ec]" started-at="2026-08-20T18:10:44 IST" name="quit" finished-at="2026-08-20T18:10:46 IST" duration-ms="2017" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- package1.PharmacyApplication.TC2_LoginToAmazonAndLogout -->
+      <class name="package1.PharmacyApplication.TC1_LoginToAmazon">
+        <test-method is-config="true" signature="launch(java.lang.String)[pri:0, instance:package1.PharmacyApplication.TC1_LoginToAmazon@6a6cb05c]" started-at="2026-08-20T18:09:49 IST" name="launch" finished-at="2026-08-20T18:09:59 IST" duration-ms="10026" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method signature="withValidCred()[pri:0, instance:package1.PharmacyApplication.TC1_LoginToAmazon@6a6cb05c]" started-at="2026-08-20T18:09:59 IST" name="withValidCred" finished-at="2026-08-20T18:10:13 IST" duration-ms="14421" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[browser and url launched successfully]]>
+            </line>
+            <line>
+              <![CDATA[Hoverover on Account and List is successful]]>
+            </line>
+            <line>
+              <![CDATA[click on signin is successful]]>
+            </line>
+            <line>
+              <![CDATA[Email_id is successfully entered]]>
+            </line>
+            <line>
+              <![CDATA[password is  successfully entered]]>
+            </line>
+            <line>
+              <![CDATA[login is successfully done]]>
+            </line>
+            <line>
+              <![CDATA[TestCase is pass]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- withValidCred -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:package1.PharmacyApplication.TC1_LoginToAmazon@6a6cb05c]" started-at="2026-08-20T18:10:14 IST" name="quit" finished-at="2026-08-20T18:10:16 IST" duration-ms="2015" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- package1.PharmacyApplication.TC1_LoginToAmazon -->
+    </test> <!-- Chrome Test -->
+    <test started-at="2026-08-20T18:10:47 IST" name="Firefox Test" finished-at="2026-08-20T18:13:43 IST" duration-ms="176067">
+      <class name="package1.PharmacyApplication.TC2_LoginToAmazonAndLogout">
+        <test-method is-config="true" signature="launch(java.lang.String)[pri:0, instance:package1.PharmacyApplication.TC2_LoginToAmazonAndLogout@45b4c3a9]" started-at="2026-08-20T18:12:30 IST" name="launch" finished-at="2026-08-20T18:12:50 IST" duration-ms="19861" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method retried="true" signature="withValidCredLogout()[pri:0, instance:package1.PharmacyApplication.TC2_LoginToAmazonAndLogout@45b4c3a9]" started-at="2026-08-20T18:12:50 IST" name="withValidCredLogout" finished-at="2026-08-20T18:13:06 IST" duration-ms="15751" status="SKIP">
+          <exception class="org.openqa.selenium.NoSuchWindowException">
+            <message>
+              <![CDATA[Browsing context has been discarded
+Build info: version: '4.43.0', revision: 'dd0f534'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.9'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [4c70a26a-46af-4bd5-bf77-ca284ed55242, getTitle {}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 154.0, moz:accessibilityChecks: false, moz:buildID: 20260812182057, moz:geckodriverVersion: 0.37.1, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 1172, moz:profile: C:\Users\PC\AppData\Local\T..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 4c70a26a-46af-4bd5-bf77-ca284ed55242]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchWindowException: Browsing context has been discarded
+Build info: version: '4.43.0', revision: 'dd0f534'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.9'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [4c70a26a-46af-4bd5-bf77-ca284ed55242, getTitle {}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 154.0, moz:accessibilityChecks: false, moz:buildID: 20260812182057, moz:geckodriverVersion: 0.37.1, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 1172, moz:profile: C:\Users\PC\AppData\Local\T..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 4c70a26a-46af-4bd5-bf77-ca284ed55242
+at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:169)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:142)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:223)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:606)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:688)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:692)
+at org.openqa.selenium.remote.RemoteWebDriver.getTitle(RemoteWebDriver.java:379)
+at package1.PharmacyApplication.TC2_LoginToAmazonAndLogout.withValidCredLogout(TC2_LoginToAmazonAndLogout.java:39)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+at org.testng.TestRunner.privateRun(TestRunner.java:741)
+at org.testng.TestRunner.run(TestRunner.java:616)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+at org.testng.TestNG.runSuites(TestNG.java:1112)
+at org.testng.TestNG.run(TestNG.java:1079)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchWindowException -->
+          <reporter-output>
+            <line>
+              <![CDATA[browser and url launched successfully]]>
+            </line>
+            <line>
+              <![CDATA[Hoverover on Account and List is successful]]>
+            </line>
+            <line>
+              <![CDATA[click on signin is successful]]>
+            </line>
+            <line>
+              <![CDATA[Email_id is successfully entered]]>
+            </line>
+            <line>
+              <![CDATA[password is  successfully entered]]>
+            </line>
+            <line>
+              <![CDATA[login is successfully done]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- withValidCredLogout -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:package1.PharmacyApplication.TC2_LoginToAmazonAndLogout@45b4c3a9]" started-at="2026-08-20T18:13:06 IST" name="quit" finished-at="2026-08-20T18:13:08 IST" duration-ms="2018" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="launch(java.lang.String)[pri:0, instance:package1.PharmacyApplication.TC2_LoginToAmazonAndLogout@45b4c3a9]" started-at="2026-08-20T18:13:08 IST" name="launch" finished-at="2026-08-20T18:13:17 IST" duration-ms="9592" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method signature="withValidCredLogout()[pri:0, instance:package1.PharmacyApplication.TC2_LoginToAmazonAndLogout@45b4c3a9]" started-at="2026-08-20T18:13:17 IST" name="withValidCredLogout" finished-at="2026-08-20T18:13:40 IST" duration-ms="23046" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[browser and url launched successfully]]>
+            </line>
+            <line>
+              <![CDATA[Hoverover on Account and List is successful]]>
+            </line>
+            <line>
+              <![CDATA[click on signin is successful]]>
+            </line>
+            <line>
+              <![CDATA[Email_id is successfully entered]]>
+            </line>
+            <line>
+              <![CDATA[password is  successfully entered]]>
+            </line>
+            <line>
+              <![CDATA[login is successfully done]]>
+            </line>
+            <line>
+              <![CDATA[Hoverover on Account and List is successful]]>
+            </line>
+            <line>
+              <![CDATA[click on signOut is  successful]]>
+            </line>
+            <line>
+              <![CDATA[TestCase is pass]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- withValidCredLogout -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:package1.PharmacyApplication.TC2_LoginToAmazonAndLogout@45b4c3a9]" started-at="2026-08-20T18:13:41 IST" name="quit" finished-at="2026-08-20T18:13:43 IST" duration-ms="2031" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- package1.PharmacyApplication.TC2_LoginToAmazonAndLogout -->
+      <class name="package1.PharmacyApplication.TC1_LoginToAmazon">
+        <test-method is-config="true" signature="launch(java.lang.String)[pri:0, instance:package1.PharmacyApplication.TC1_LoginToAmazon@6a2f6f80]" started-at="2026-08-20T18:10:47 IST" name="launch" finished-at="2026-08-20T18:12:01 IST" duration-ms="74295" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method signature="withValidCred()[pri:0, instance:package1.PharmacyApplication.TC1_LoginToAmazon@6a2f6f80]" started-at="2026-08-20T18:12:01 IST" name="withValidCred" finished-at="2026-08-20T18:12:27 IST" duration-ms="26215" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[browser and url launched successfully]]>
+            </line>
+            <line>
+              <![CDATA[Hoverover on Account and List is successful]]>
+            </line>
+            <line>
+              <![CDATA[click on signin is successful]]>
+            </line>
+            <line>
+              <![CDATA[Email_id is successfully entered]]>
+            </line>
+            <line>
+              <![CDATA[password is  successfully entered]]>
+            </line>
+            <line>
+              <![CDATA[login is successfully done]]>
+            </line>
+            <line>
+              <![CDATA[TestCase is pass]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- withValidCred -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:package1.PharmacyApplication.TC1_LoginToAmazon@6a2f6f80]" started-at="2026-08-20T18:12:28 IST" name="quit" finished-at="2026-08-20T18:12:30 IST" duration-ms="2003" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- package1.PharmacyApplication.TC1_LoginToAmazon -->
+    </test> <!-- Firefox Test -->
+    <test started-at="2026-08-20T18:13:43 IST" name="Edge Test" finished-at="2026-08-20T18:14:52 IST" duration-ms="69415">
+      <class name="package1.PharmacyApplication.TC2_LoginToAmazonAndLogout">
+        <test-method is-config="true" signature="launch(java.lang.String)[pri:0, instance:package1.PharmacyApplication.TC2_LoginToAmazonAndLogout@385e9564]" started-at="2026-08-20T18:14:20 IST" name="launch" finished-at="2026-08-20T18:14:25 IST" duration-ms="4458" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method signature="withValidCredLogout()[pri:0, instance:package1.PharmacyApplication.TC2_LoginToAmazonAndLogout@385e9564]" started-at="2026-08-20T18:14:25 IST" name="withValidCredLogout" finished-at="2026-08-20T18:14:50 IST" duration-ms="25233" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[browser and url launched successfully]]>
+            </line>
+            <line>
+              <![CDATA[Hoverover on Account and List is successful]]>
+            </line>
+            <line>
+              <![CDATA[click on signin is successful]]>
+            </line>
+            <line>
+              <![CDATA[Email_id is successfully entered]]>
+            </line>
+            <line>
+              <![CDATA[password is  successfully entered]]>
+            </line>
+            <line>
+              <![CDATA[login is successfully done]]>
+            </line>
+            <line>
+              <![CDATA[Hoverover on Account and List is successful]]>
+            </line>
+            <line>
+              <![CDATA[click on signOut is  successful]]>
+            </line>
+            <line>
+              <![CDATA[TestCase is pass]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- withValidCredLogout -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:package1.PharmacyApplication.TC2_LoginToAmazonAndLogout@385e9564]" started-at="2026-08-20T18:14:50 IST" name="quit" finished-at="2026-08-20T18:14:52 IST" duration-ms="2013" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- package1.PharmacyApplication.TC2_LoginToAmazonAndLogout -->
+      <class name="package1.PharmacyApplication.TC1_LoginToAmazon">
+        <test-method is-config="true" signature="launch(java.lang.String)[pri:0, instance:package1.PharmacyApplication.TC1_LoginToAmazon@291caca8]" started-at="2026-08-20T18:13:43 IST" name="launch" finished-at="2026-08-20T18:13:58 IST" duration-ms="15403" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method signature="withValidCred()[pri:0, instance:package1.PharmacyApplication.TC1_LoginToAmazon@291caca8]" started-at="2026-08-20T18:13:58 IST" name="withValidCred" finished-at="2026-08-20T18:14:17 IST" duration-ms="19394" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[browser and url launched successfully]]>
+            </line>
+            <line>
+              <![CDATA[Hoverover on Account and List is successful]]>
+            </line>
+            <line>
+              <![CDATA[click on signin is successful]]>
+            </line>
+            <line>
+              <![CDATA[Email_id is successfully entered]]>
+            </line>
+            <line>
+              <![CDATA[password is  successfully entered]]>
+            </line>
+            <line>
+              <![CDATA[login is successfully done]]>
+            </line>
+            <line>
+              <![CDATA[TestCase is pass]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- withValidCred -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:package1.PharmacyApplication.TC1_LoginToAmazon@291caca8]" started-at="2026-08-20T18:14:18 IST" name="quit" finished-at="2026-08-20T18:14:20 IST" duration-ms="2011" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- package1.PharmacyApplication.TC1_LoginToAmazon -->
+    </test> <!-- Edge Test -->
+  </suite> <!-- Testing Smoke Scenerios -->
+</testng-results>
