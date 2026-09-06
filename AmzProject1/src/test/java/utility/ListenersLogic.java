@@ -18,6 +18,7 @@ public class ListenersLogic implements ITestListener//here right click on itestl
 	@Override
 	public void onTestSuccess(ITestResult result) {
 		// TODO Auto-generated method stub
+		String testname = result.getName();
 		ITestListener.super.onTestSuccess(result);
 		Date d1=new Date();
 		System.out.println(d1.getTime());
@@ -74,10 +75,18 @@ public class ListenersLogic implements ITestListener//here right click on itestl
 			
 			TakesScreenshot ts = (TakesScreenshot)  BaseTest.driver;
 			File source = ts.getScreenshotAs(OutputType.FILE);
+			String testName = result.getName();
+			String fileName = testName + " " + format1  + ".png "; 
 			//File destination = new File("C:\\Users\\PC\\eclipse-workspace\\Automation\\test-output\\NewScreen\\Firsttestcase.png");//it will not again show same screenshot it will replace new will come
 			File destination = new File("C:\\Users\\PC\\eclipse-workspace\\PharmacyApplication\\test-output\\screenshot\\fail\\"+result.getName()+format1+".png");// all will come here screenshot will not replace all screenshot will come
 			try {
-				FileHandler.copy(source, destination);
+				if (!destination.getParentFile().exists())
+				{
+					destination.getParentFile().mkdirs();
+				}
+				org.openqa.selenium.io.FileHandler.copy(source, destination);
+				System.out.println("Screenshot saved to: " + destination.getAbsolutePath());
+				//FileHandler.copy(source, destination);
 			} catch (IOException e) {
 				// TODO Auto-generated catch block
 				e.printStackTrace();
